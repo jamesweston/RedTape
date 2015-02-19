@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+desktop.ini
 
 # Build results
 [Dd]ebug/
